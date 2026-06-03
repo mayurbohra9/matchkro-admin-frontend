@@ -6,7 +6,6 @@ import { Link, Container, Typography, Divider, Stack, Button } from '@mui/materi
 // hooks
 import useResponsive from '../hooks/useResponsive';
 // components
-import { ReactComponent as MatchKaro } from '../components/logo/logo.png';
 import Iconify from '../components/iconify';
 // sections
 import { LoginForm } from '../sections/auth/login';
